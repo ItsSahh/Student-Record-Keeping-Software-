@@ -1,8 +1,8 @@
 # Student Record Keeping Software
 
-** Database: **
-     * SRKS (Student Record Keeping Software) *
-** Entity: **
+## Database:
+     ### SRKS (Student Record Keeping Software) 
+## Entity: 
     1. Administartor
     2. Student
     3. Fees
@@ -11,4 +11,4 @@
     6. Exame
     7. Teacher
 
-** Attributes: **
+## Attributes:
