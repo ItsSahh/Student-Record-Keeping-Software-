@@ -2,7 +2,9 @@
 
 ## Database
      SRKS (Student Record Keeping Software)
+
 ## Entity
+
     1. Administartor
             * Admin ID
             * Password
