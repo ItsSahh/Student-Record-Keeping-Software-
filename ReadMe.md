@@ -1,9 +1,10 @@
 # Student Record Keeping Software
 
-## Database
-     SRKS (Student Record Keeping Software)
 
-## Entity
+### Database
+     SRKS
+
+### Entity
 
     1. Administartor
             * Admin ID
