@@ -1,8 +1,5 @@
 # Student Record Keeping Software
 
-
-
-
 ### **Entity**
 
 1. Administartor: <br>
@@ -49,18 +46,18 @@
 
  ### **Dumping Values**
 
-     Administartor Table
-
+     Administartor Table: 
+     
     | Admin_ID | Admin_Name          | Admin_Password      |
     | -------- | ------------------- | ------------------- |
     |   1      |   Root              |    Root_Password    |
     |   2      |   Admin             |    Admin_Password   |
     |   3      |   Student           |    Student_Password |
 
-    Student Table
+    Student Table: 
 
     | Student_ID | Student_Name      | Address         |  Contact          |
-    | -------- | ------------------- |----------------- -------------------|
-    |   1      |   Armoghan          |    Lahore       | 03328695097       |
-    |   2      |   Aftab Shah        |    Lahore       | 0301 6589918      |
+    | --------   | ----------------- |-----------------| ------------------|
+    |   1        |   Armoghan        |    Lahore       | 03328695097       |
+    |   2        |   Aftab Shah      |    Lahore       | 0301 6589918      |
     
