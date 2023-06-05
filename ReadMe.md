@@ -59,5 +59,5 @@
     | Student_ID | Student_Name      | Address         |  Contact          |
     | --------   | ----------------- |-----------------| ------------------|
     |   1        |   Armoghan        |    Lahore       | 03328695097       |
-    |   2        |   Aftab Shah      |    Lahore       | 0301 6589918      |
+    |   2        |   Aftab Shah      |    Lahore       | 03016589918      |
     
